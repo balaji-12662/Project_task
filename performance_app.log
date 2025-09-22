@@ -1,0 +1,31 @@
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2317
+Not Found: /
+"GET / HTTP/1.1" 404 2317
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2368
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2368
+Not Found: /api/
+"GET /api/ HTTP/1.1" 404 5018
+Method Not Allowed: /api/auth/login
+"GET /api/auth/login HTTP/1.1" 405 5556
+"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+"GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+"GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+"GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+"GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+"GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+"GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+"GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+Unauthorized: /api/auth/logout
+"GET /api/auth/logout HTTP/1.1" 401 3750
+Unauthorized: /api/reviews
+"GET /api/reviews HTTP/1.1" 401 3763
+C:\Users\Admin\Desktop\Comapany task\performance_task\performance_app\views.py changed, reloading.
+Watching for file changes with StatReloader
